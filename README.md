@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jofrais
+- 👀 I’m interested in `Coding`, Playing, Running!
+- 🌱 I’m currently learning Java, Typescript
+- 📫 How to reach me : gveillard11@gmail.com, feel free to mail me for anything
